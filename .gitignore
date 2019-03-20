@@ -49,3 +49,6 @@ Server/.DS_Store
 .objs/
 /Unity/.gradle
 /*.user
+*.csproj
+*.sln
+Unity/Assets/Res/Code/
